@@ -1,0 +1,174 @@
+
+* {
+    padding: 0px;
+    margin: 0px;
+    /* outline: solid yellowgreen;*/
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: white;
+}
+header {
+    position: fixed;
+    background: red;
+    width: 100%;
+    top: 0;
+    padding: 5px;
+}
+.container {
+    padding: 40px;
+    width: 1260px;
+    height: 5px;
+}
+
+.btn-menu {
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    margin-top: 10px;
+}
+
+.icon-twitter {
+    font-size: 20px;
+    color: white;
+}
+
+.icon-facebook {
+    font-size: 20px;
+    color: white;
+}
+
+.icon-instagram {
+    font-size: 20px;
+    color: white;
+}
+
+
+input {
+    width: 220px;
+    padding: 5px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #8B8D8B;
+    left: 875px;
+    top: 45px;
+    position: fixed;
+}
+
+.icon-search {
+    font-size: 20px;
+    color: #8B8D8B;
+    position: fixed;
+    left: 1080px;
+    top: 50px;
+}
+
+#general {
+    margin-left: 100px;
+    width: 900px;
+    height: 950px;
+    float: left;
+    margin-top: 95px;
+    background: #E5F2FC;
+}
+
+#primero {
+    width: 810px;
+    height: 360px;
+    background-color: #8B8D8B;
+    margin-left: 40px;
+    border-radius: 6px;
+    border-style: solid;
+    border-color: white;
+}
+
+#fondo {
+    width: 400px;
+    height: 347px;
+    margin-left: 410px;
+    margin-top: 3px;
+    border-radius: 6px;
+    border-color: white;
+}
+.caso {
+    width: 130px;
+    margin-top: -350px;
+    margin-left: 90px;
+    text-align: left;
+    font-size: 30px;
+    color: white;
+}
+.segundo {
+    width: 350px;
+    height: 400px;
+    background-color: #8B8D8B;
+    margin-left: 40px;
+    margin-top: 50px;
+    border-radius: 6px;
+    border-style: solid;
+    border-color: white;
+}
+#fondo1 {
+    width: 343px;
+    height: 200px;
+    margin-left: 3px;
+    margin-top: 3px;
+    border-radius: 6px;
+    border-color: white;
+}
+#parrafos {
+    padding: 5px 30px;
+}
+
+.parrafo {
+    width: 65px;
+    height: 13px;
+    font-weight: 500px;
+    font-size: 15px;
+    margin-top:-10px;
+    text-align: left;
+    color: white;
+    float: left;
+}
+
+
+
+.clear-left {
+    clear: left;
+}
+.tercero {
+    width: 350px;
+    height: 400px;
+    background-color:#8B8D8B ;
+    margin-left: 500px;
+    margin-top: -410px;
+    border-radius: 6px;
+    border-style: solid;
+    border-color: white;
+}
+#fondo2 {
+    width: 343px;
+    height: 200px;
+    margin-left: 3px;
+    margin-top: 3px;
+    border-radius: 6px;
+    border-color: white;
+}
+#parrafos {
+    padding: 5px 30px;
+}
+
+.parrafo {
+    width: 65px;
+    height: 13px;
+    font-weight: 500px;
+    font-size: 15px;
+    margin-top:-10px;
+    text-align: left;
+    color: white;
+    float: left;
+}
+
+.clear-left {
+    clear: left;
+}
